@@ -1,0 +1,16 @@
+tests\CreateExpense.class
+pages\WelcomeScreen.class
+pages\ServerScreen.class
+tests\BaseClass.class
+tests\ExpenseReport.class
+tests\ExtentReportsXM.class
+pages\MenuScreen.class
+tests\UnattachedReceiptIOS.class
+tests\CreateExpenseIOS.class
+pages\Menu.class
+pages\Welcome.class
+pages\Server.class
+tests\ApproveandReject.class
+tests\UnattachedReceipt.class
+pages\LoginScreen.class
+pages\Login.class

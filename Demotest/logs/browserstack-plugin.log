@@ -1,0 +1,420 @@
+14:34:36.829 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+14:34:36.985 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=testng, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=testng:appium-eclipse:v1.0.3]
+14:37:10.054 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:37:10.054 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:37:10.061 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+14:37:10.065 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:37:10.066 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:37:10.072 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+14:42:58.949 [Worker-50: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+14:42:58.959 [Worker-50: Launching LogInLogOut] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\mkorukonda\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.4\browserstack-java-sdk-1.7.4.jar'
+                ^
+14:42:58.975 [Worker-50: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:46:03.846 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:46:03.846 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:46:03.852 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+14:46:03.856 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:46:03.856 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:46:03.861 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+14:46:06.054 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:46:06.054 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:46:06.065 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+14:46:06.070 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:46:06.071 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:46:06.080 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+14:46:11.601 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:46:11.601 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:46:11.609 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+14:46:11.613 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:46:11.613 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:46:11.624 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+14:46:12.831 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:46:12.831 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:46:12.841 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+14:46:12.845 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:46:12.845 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:46:12.852 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+14:47:45.601 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+14:47:45.608 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=testng, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=testng:appium-eclipse:v1.0.3]
+14:47:45.621 [Worker-56: Launching mavenrun-b422e09e-17a5-4502-a4e7-f5ff2c18ee87] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:48:20.535 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:48:20.535 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:48:20.542 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+14:48:20.548 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:48:20.548 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+14:48:20.558 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+14:54:02.181 [Worker-65: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+14:54:02.185 [Worker-65: Launching LogInLogOut] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\mkorukonda\.m2\repository\com\browserstack\browserstack-java-sdk\1.7.4\browserstack-java-sdk-1.7.4.jar'
+                ^
+14:54:02.195 [Worker-65: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:08:55.232 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:08:55.232 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:08:55.240 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+15:08:55.244 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:08:55.244 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:08:55.252 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+15:08:56.823 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:08:56.823 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:08:56.834 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+15:08:56.840 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:08:56.840 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:08:56.853 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+16:22:35.109 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:22:35.111 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:22:35.117 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+16:22:35.123 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:22:35.123 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:22:35.132 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+16:22:38.011 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:22:38.011 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:22:38.019 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+16:22:38.024 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:22:38.024 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+16:22:38.033 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+17:49:31.622 [Framework stop - Equinox Container: 88cb84c0-109a-4ba8-834a-2cbf90fb0437] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
+15:49:19.831 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+15:49:19.865 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=java, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=java:appium-eclipse:v1.0.3]
+15:50:37.357 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:50:37.357 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:50:37.363 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+15:50:37.366 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:50:37.367 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:50:37.373 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+15:50:40.792 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:50:40.794 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:50:40.825 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/XMNativeAppProject
+15:50:40.837 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:50:40.837 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+15:50:40.849 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/XMNativeAppProject
+15:50:43.534 [main] INFO  c.b.BrowserStackPluginActivator - Setting browserstackPluginEnabled (BROWSERSTACK_PLUGIN_ENABLED) in plugin prefs - false
+15:50:43.570 [main] INFO  c.b.actions.BrowserStackPluginToggle - Is Enabled file:/C:/Users/mkorukonda/eclipse-workspace/XMNativeAppProject
+15:50:47.855 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:50:47.857 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:50:47.862 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+15:50:47.869 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:50:47.869 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:50:47.877 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+15:50:49.301 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:50:49.302 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:50:49.316 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+15:50:49.323 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:50:49.323 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:50:49.335 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+15:51:09.969 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+15:51:09.972 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=java, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=java:appium-eclipse:v1.0.3]
+15:55:38.033 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:55:38.033 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:55:38.041 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+15:55:38.045 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:55:38.045 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:55:38.053 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+15:55:39.133 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:55:39.133 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:55:39.145 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+15:55:39.153 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:55:39.154 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:55:39.167 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+15:55:52.926 [Worker-214: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+15:55:52.932 [Worker-214: Launching LogInLogOut] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\mkorukonda\.m2\repository\com\browserstack\browserstack-java-sdk\1.8.1\browserstack-java-sdk-1.8.1.jar'
+                ^
+15:55:52.948 [Worker-214: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:55:52.959 [Worker-214: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:00:08.589 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:00:08.589 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:00:08.597 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:00:08.600 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:00:08.600 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:00:08.605 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:02:05.899 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:02:05.899 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:02:05.908 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:02:05.913 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:02:05.913 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:02:05.921 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:02:15.531 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:02:15.531 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:02:15.538 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:02:15.543 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:02:15.543 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:02:15.548 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:02:17.248 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:02:17.249 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:02:17.259 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:02:17.264 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:02:17.264 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:02:17.275 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:02:43.160 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+16:02:43.166 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=java, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=java:appium-eclipse:v1.0.3]
+16:02:43.184 [Worker-200: Launching mavenrun-d5b70f97-b476-4fad-a378-981f86bfd2ac] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:05:45.368 [Worker-217: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+16:05:45.373 [Worker-217: Launching LogInLogOut] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\mkorukonda\.m2\repository\com\browserstack\browserstack-java-sdk\1.8.1\browserstack-java-sdk-1.8.1.jar'
+                ^
+16:05:45.385 [Worker-217: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:46:20.665 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+15:46:20.688 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=java, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=java:appium-eclipse:v1.0.3]
+15:46:37.540 [main] ERROR c.b.launchers.LaunchMavenCommand - Error while executing maven archetype command in catch - java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Process exit value was 1.
+15:47:24.725 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:47:24.726 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:47:24.732 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+15:47:24.736 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:47:24.737 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:47:24.741 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+15:47:27.194 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:47:27.196 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:47:27.204 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+15:47:27.209 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:47:27.209 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:47:27.221 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+15:47:51.865 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+15:47:51.873 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=testng, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=testng:appium-eclipse:v1.0.3]
+15:47:51.886 [Worker-16: Launching mavenrun-0117b2d1-8ad0-48df-ae59-36784e03eaed] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+15:48:25.560 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+15:48:25.560 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:48:25.566 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+15:48:25.570 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+15:48:25.570 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+15:48:25.575 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+15:56:02.593 [Worker-23: Launching Executing test in C__Users_mkorukonda_eclipse-workspace_XMNativeAppProject] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:02:41.977 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:02:41.977 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:02:41.985 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:02:41.990 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:02:41.990 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:02:41.998 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:18:13.510 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:18:13.511 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:18:13.520 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:18:13.525 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:18:13.525 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:18:13.534 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:25:48.251 [Worker-36: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:25:48.254 [Worker-36: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:28:10.576 [Worker-38: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:28:10.577 [Worker-38: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:29:23.378 [Worker-43: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:29:23.378 [Worker-43: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:31:23.641 [Worker-44: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:31:23.641 [Worker-44: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:34:28.862 [Worker-46: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:34:28.863 [Worker-46: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:40:17.551 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:40:17.551 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:40:17.557 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:40:17.560 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:40:17.560 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:40:17.565 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:43:21.716 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:43:21.716 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:43:21.723 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:43:21.726 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:43:21.726 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:43:21.732 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:43:23.393 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:43:23.393 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:43:23.400 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:43:23.403 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:43:23.403 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:43:23.409 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:43:46.570 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+16:43:46.573 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=testng, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=testng:appium-eclipse:v1.0.3]
+16:43:46.583 [Worker-47: Launching mavenrun-9b6b2429-48a1-48e2-9201-12781b8b49fc] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+16:45:21.146 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:45:21.146 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:45:21.151 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:45:21.155 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:45:21.155 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:45:21.160 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:45:22.791 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:45:22.791 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:45:22.796 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:45:22.799 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:45:22.799 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:45:22.803 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:45:38.443 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+16:45:38.447 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=testng, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=testng:appium-eclipse:v1.0.3]
+16:47:10.518 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:47:10.518 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:47:10.522 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:47:10.526 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:47:10.526 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:47:10.532 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:47:11.989 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:47:11.989 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:47:11.995 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:47:11.997 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:47:11.998 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:47:12.006 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+16:47:27.114 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+16:47:27.117 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=NkiobTxsEtiwKf4CmKxN, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=testng, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.2, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=madhupraneeth_EPwxVk, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=testng:appium-eclipse:v1.0.3]
+16:47:44.681 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+16:47:44.681 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:47:44.690 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+16:47:44.693 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+16:47:44.693 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+16:47:44.699 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+22:03:39.326 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+22:03:39.327 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+22:03:39.332 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+22:03:39.335 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+22:03:39.335 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+22:03:39.339 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+22:04:04.994 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+22:04:04.995 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+22:04:05.008 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+22:04:05.012 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+22:04:05.012 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+22:04:05.020 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+22:22:16.169 [Worker-111: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:22:16.173 [Worker-111: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:22:16.175 [Worker-111: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:22:16.176 [Worker-111: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - Existing javaagentArgline (BROWSERSTACK_JAVAAGENT_ARGLINE) in plugin prefs is 
+22:22:16.186 [Worker-111: Launching LogInLogOut] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.util.regex.PatternSyntaxException: Illegal/unsupported escape sequence near index 16
+ -javaagent:'C:\Users\mkorukonda\.m2\repository\com\browserstack\browserstack-java-sdk\1.8.4\browserstack-java-sdk-1.8.4.jar'
+                ^
+22:22:16.544 [Worker-111: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:35:33.477 [Worker-124: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:52:45.392 [Worker-131: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:52:45.392 [Worker-131: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:53:36.060 [Worker-131: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:53:36.061 [Worker-131: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:54:39.264 [Worker-134: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:54:39.264 [Worker-134: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:55:09.900 [Worker-132: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:55:09.900 [Worker-132: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:56:09.401 [Worker-133: Launching ExpenseReport] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:56:09.402 [Worker-133: Launching ExpenseReport] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+22:56:49.746 [Worker-134: Launching ExpenseReport] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+22:56:49.746 [Worker-134: Launching ExpenseReport] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:02:19.910 [Worker-130: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:02:19.912 [Worker-130: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:04:58.144 [Worker-130: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:04:58.145 [Worker-130: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:05:02.425 [Worker-130: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:05:23.398 [Worker-128: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:09:10.519 [Worker-139: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:09:10.520 [Worker-139: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:09:43.744 [Worker-137: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:09:43.745 [Worker-137: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:10:34.035 [Worker-136: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:10:34.036 [Worker-136: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:12:38.380 [Worker-128: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:12:38.380 [Worker-128: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:15:25.063 [Worker-141: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:15:25.064 [Worker-141: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:15:51.831 [Worker-143: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:15:51.832 [Worker-143: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:21:03.782 [Worker-146: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:21:03.783 [Worker-146: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:23:41.267 [Worker-148: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:23:41.268 [Worker-148: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:25:30.519 [Worker-146: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:25:30.519 [Worker-146: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:27:55.435 [Worker-146: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:27:55.436 [Worker-146: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:28:21.369 [Worker-146: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:28:21.370 [Worker-146: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:28:44.819 [Worker-150: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:29:09.869 [Worker-148: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:29:09.872 [Worker-148: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:29:09.872 [Worker-148: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:29:42.259 [Worker-152: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:29:42.259 [Worker-152: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:31:06.445 [Worker-152: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:31:06.447 [Worker-152: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:32:44.061 [Worker-150: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:32:44.061 [Worker-150: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:34:59.947 [Worker-149: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:34:59.948 [Worker-149: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:35:04.154 [Worker-149: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:35:21.580 [Worker-150: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:37:24.613 [Worker-150: Launching LogInLogOut] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:39:12.876 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:39:12.878 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false null
+23:39:12.881 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:39:12.883 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false null
+23:39:26.940 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:39:26.942 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false null
+23:39:26.945 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:39:26.947 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false null
+23:39:35.369 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+23:39:35.372 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false null
+23:39:35.375 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+23:39:35.377 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false null
+23:44:08.686 [Worker-149: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:44:08.689 [Worker-149: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:44:08.690 [Worker-149: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:44:47.250 [Worker-153: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:44:47.251 [Worker-153: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:45:43.004 [Worker-146: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:45:43.005 [Worker-146: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:46:47.150 [Worker-150: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:46:47.150 [Worker-150: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:47:34.067 [Worker-149: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:47:34.068 [Worker-149: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:48:23.560 [Worker-146: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:48:23.560 [Worker-146: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:51:44.086 [Worker-156: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:51:44.086 [Worker-156: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:54:52.843 [Worker-160: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:54:52.843 [Worker-160: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:55:32.212 [Worker-163: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:55:32.212 [Worker-163: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:58:30.954 [Worker-164: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:58:30.955 [Worker-164: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+23:59:02.987 [Worker-156: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+23:59:02.988 [Worker-156: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:06:24.278 [Worker-167: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:06:24.279 [Worker-167: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:06:48.984 [Worker-168: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:06:48.984 [Worker-168: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:09:31.852 [Worker-168: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:09:31.853 [Worker-168: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:14:27.117 [Worker-175: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:14:27.119 [Worker-175: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:17:34.632 [Worker-179: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:17:34.633 [Worker-179: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:26:33.997 [Worker-183: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:26:33.997 [Worker-183: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:27:38.053 [Worker-184: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:27:38.053 [Worker-184: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:28:00.971 [Worker-184: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:28:00.971 [Worker-184: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:34:25.059 [Worker-193: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+00:34:25.060 [Worker-193: Launching UnattachedExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+00:35:33.455 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+00:35:33.458 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false null
+00:35:33.460 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+00:35:33.462 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false null
+13:30:56.397 [Worker-248: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:30:56.397 [Worker-248: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+13:32:20.653 [Worker-256: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+13:32:20.654 [Worker-256: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+13:33:31.600 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+13:33:31.600 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+13:33:31.604 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+13:33:31.607 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+13:33:31.607 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+13:33:31.612 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+14:52:06.565 [Worker-271: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:52:06.568 [Worker-271: Launching CreateExpense] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:53:40.000 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+14:53:40.000 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+14:53:40.013 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : false P/XMNativeAppProject
+14:53:40.021 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+14:53:40.021 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys [BROWSERSTACK_PLUGIN_ENABLED]
+14:53:40.034 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : true P/XMNativeAppProject
+14:54:22.435 [Worker-271: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:54:22.436 [Worker-271: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:54:52.483 [Worker-273: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:54:52.484 [Worker-273: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:55:22.412 [Worker-274: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:55:22.413 [Worker-274: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:56:13.692 [Worker-271: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:56:13.695 [Worker-271: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+14:58:26.977 [Worker-271: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+14:58:26.979 [Worker-271: Launching UnattachedReceipt] INFO  c.b.BrowserStackPluginActivator - The environment variables for the launch configuration are {}
+16:06:48.326 [Framework stop - Equinox Container: 16d76c86-4fc5-4a68-9e46-016d7ecf463a] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...

@@ -1,0 +1,13 @@
+
+<suite name="Suite">
+     <test name="BStackDemo 1">
+        <classes>
+            <class name="tests.CreateExpense"/>
+        </classes>
+    </test>
+    <!-- <test name="BStackDemo 2">
+        <classes>
+            <class name="tests.UnattachedReceipt"/>
+        </classes>
+    </test> -->
+</suite>

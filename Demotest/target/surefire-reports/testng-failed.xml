@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="25" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="25" verbose="0" name="BStackDemo 1-3(failed)" parallel="classes">
+    <parameter name="platform" value="3"/>
+    <classes>
+      <class name="tests.CreateExpense">
+        <methods>
+          <include name="teardown"/>
+          <include name="reportTeardown"/>
+          <include name="setup"/>
+          <include name="dotest"/>
+          <include name="reportSetup"/>
+        </methods>
+      </class> <!-- tests.CreateExpense -->
+    </classes>
+  </test> <!-- BStackDemo 1-3(failed) -->
+</suite> <!-- Failed suite [Suite] -->
