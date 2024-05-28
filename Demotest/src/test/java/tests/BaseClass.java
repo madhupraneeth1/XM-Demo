@@ -37,7 +37,7 @@ public class BaseClass extends ExtentReportsXM {
 		//caps.setCapability(MobileCapabilityType.UDID, "192.168.0.102:5555");
 		
 		caps.setCapability(MobileCapabilityType.UDID, "7fac1e5a");
-		caps.setCapability(MobileCapabilityType.PLATFORM_NAME, "ANDROID");
+		caps.setCapability(MobileCapabilityType.PLATFORM_NAME, "ios");
 		caps.setCapability(MobileCapabilityType.PLATFORM_VERSION, "11");
 		caps.setCapability(MobileCapabilityType.DEVICE_NAME, "Oneplus 7T");
 		caps.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 60);
